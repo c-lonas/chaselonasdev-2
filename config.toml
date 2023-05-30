@@ -1,0 +1,30 @@
+# Theme
+theme = "hayflow"
+
+# The URL the site will be built for
+base_url = "https://chaselonas.dev"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+[extra]
+# Put all your custom variables here
+name = { first = "chase", last = "lonas"}
+
+links = [
+    { icon = "fa-solid fa-envelope", url = "mailto:chaselonas@gmail.com" },
+    { icon = "fa-brands fa-linkedin", url = "https://www.linkedin.com/in/chase-lonas/" },
+    { icon = "fa-brands fa-github-alt", url = "https://github.com/c-lonas" },
+
+]
+
+
+sections = ["whoami", "skills", "projects"]
