@@ -1,8 +1,6 @@
 +++
-title = "Javascript"
+title = "AWS"
 
 [extra]
-icons = ["fa-brands fa-js"]
+icons = ["fa-brands fa-aws"]
 +++
-
-Experienced with using Javascipt in conjunction with HTML, CSS, and a variety of frameworks and libraries for web development

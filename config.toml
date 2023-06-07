@@ -27,4 +27,4 @@ links = [
 ]
 
 
-sections = ["whoami", "skills", "projects"]
+sections = ["about", "skills", "projects"]

@@ -1,8 +1,7 @@
 +++
-title = "Jira"
+title = "Docker"
 
 [extra]
-icons = ["fa-brands fa-jira"]
+icons = ["fa-brands fa-docker"]
 +++
 
-Experienced working with Jira as a Scrum master as part of a SAFe Agile Release Train (ART)
