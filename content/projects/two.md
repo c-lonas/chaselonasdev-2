@@ -9,6 +9,6 @@ This project is a demonstration of a full-stack Rust web application in the form
 
 
 
-{{ resized_image(path="manage-users.png", width=450, height=300, alt="My image alt text", class = "project-screenshot") }} **[Github](https://github.com/c-lonas/personal-finance-tracker)**
+{{ resized_image(path="images/manage-users.png", width=450, height=300, alt="My image alt text", class = "project-screenshot") }} **[Github](https://github.com/c-lonas/personal-finance-tracker)**
 
 
