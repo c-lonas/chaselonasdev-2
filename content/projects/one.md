@@ -3,5 +3,4 @@ title = "DevOps project"
 
 +++
 
-
-Here we'll do a writeup on the finance tracker, what skills it demonstrates, etc
+Look for a way to link to this to KodeKloud projects
