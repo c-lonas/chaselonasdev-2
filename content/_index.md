@@ -1,4 +1,4 @@
 +++
 [extra]
-roles = ["Software Developer 💻", "DevOps 🚀", "Scrum Master 📈"]
+roles = ["DevOps 🚀", "Software Developer 💻", "Scrum Master 📈"]
 +++
